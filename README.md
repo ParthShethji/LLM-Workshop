@@ -1,5 +1,6 @@
 <h1>Advanced LLMs and Promting</h1>
 
+<table>
   <tr>
     <td width="40%">
       <ol type="1">
@@ -15,4 +16,4 @@
       <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/Heath-Ledger-as-Joker.jpg?q=50&fit=crop&w=1500&dpr=1.5" alt="Why so serious" width="700" height="350">
     </td>
   </tr>
-
+</table>
