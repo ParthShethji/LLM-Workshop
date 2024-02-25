@@ -6,4 +6,7 @@
   <li>AR & Auto encoding LLMS</li>
   <li>Opensource LLMs (Stable LLM & Orca-mini</li>
   <li>Prompting</li>
+  <li>Bomb Prompt Challenge</li>
 </ol>
+
+<img src="https://static1.srcdn.com/wordpress/wp-content/uploads/Heath-Ledger-as-Joker.jpg?q=50&fit=crop&w=1500&dpr=1.5" alt="Why so serious" width="500" height="600">
