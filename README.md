@@ -9,4 +9,4 @@
   <li>Bomb Prompt Challenge</li>
 </ol>
 
-<img src="https://static1.srcdn.com/wordpress/wp-content/uploads/Heath-Ledger-as-Joker.jpg?q=50&fit=crop&w=1500&dpr=1.5" alt="Why so serious" width="700" height="300">
+<img src="https://static1.srcdn.com/wordpress/wp-content/uploads/Heath-Ledger-as-Joker.jpg?q=50&fit=crop&w=1500&dpr=1.5" alt="Why so serious" width="700" height="350">
